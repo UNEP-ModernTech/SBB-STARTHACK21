@@ -6,7 +6,7 @@ This is the main structure we would propose for the presentation of your START H
 
 Please feel free to provide participants with as much information, tools and tips & tricks as possible in order to ensure the best and most creative outcomes.
 
-### Case Introduction
+### Cas e Introduction
 
 ##### Case Pitch
 
