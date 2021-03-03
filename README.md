@@ -6,7 +6,7 @@ This is the main structure we would propose for the presentation of your START H
 
 Please feel free to provide participants with as much information, tools and tips & tricks as possible in order to ensure the best and most creative outcomes.
 
-### Cas e Introduction
+### Case Introduction
 
 ##### Case Pitch
 
@@ -19,6 +19,9 @@ Insert materials from your Deep Dives here
 ##### Further Information
 
 ### Resources
+https://data.sbb.ch/explore/dataset/parkrail-sale-app/information/
+https://data.sbb.ch/explore/dataset/parkrail-sale-backend/information/
+https://data.sbb.ch/explore/dataset/parkrail-sale-app-history/information/
 
 Data, APIs, SDKs, Skeleton Coder
 
