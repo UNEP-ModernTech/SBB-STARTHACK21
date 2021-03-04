@@ -19,27 +19,30 @@ Insert materials from your Deep Dives here
 ##### Further Information
 
 ### Resources
+sold tickets / abo in the Park & App
 https://data.sbb.ch/explore/dataset/parkrail-sale-app/information/
 
+https://data.sbb.ch/explore/dataset/parkrail-sale-app-history/information/
+sold tickets / abo in the other sales channels
 https://data.sbb.ch/explore/dataset/parkrail-sale-backend/information/
 
-https://data.sbb.ch/explore/dataset/parkrail-sale-app-history/information/
+Information about the trainstations in Switzerland https://data.sbb.ch/explore/dataset/dienststellen-gemass-opentransportdataswiss/information/
+Information about the amount of trains at each Station https://data.sbb.ch/explore/dataset/anzahl-zuge-pro-haltestelle/table/?sort=betriebstag 
 
-Data, APIs, SDKs, Skeleton Coder
 
-External Apps
-
-Further resources, ... 
 
 ### Judging Criteria
 
-Let your participants know what you're looking for
+we assess the solution on the basis of various areas.
+- The user interface must be designed in an appealing way
+- the suggestions made are correct in terms of content
+- the technical implementation works.
 
 ### Point of Contact
 
-Contact Details of all people active at the Booth 
+![Kontakt](kontakt.png "Title") 
 
-Timeslots for Booth attendance
+
 
 ### Prize
 
