@@ -3,7 +3,7 @@
 Improve the occupancy forecast of P+Rail
 
 The core of our challenge is that we would like to improve the occupancy forecast of our parking spaces at the train station.
-
+![Pitch](pitch.png "Title") 
 
 ### Case Introduction
 
