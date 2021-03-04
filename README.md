@@ -1,10 +1,9 @@
 # SBB START HACK 2021
 
+Improve the occupancy forecast of P+Rail
 
+The core of our challenge is that we would like to improve the occupancy forecast of our parking spaces at the train station.
 
-This is the main structure we would propose for the presentation of your START Hack Case.
-
-Please feel free to provide participants with as much information, tools and tips & tricks as possible in order to ensure the best and most creative outcomes.
 
 ### Case Introduction
 
