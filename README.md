@@ -21,13 +21,13 @@ Insert materials from your Deep Dives here
 sold tickets / abo in the Park & App
 https://data.sbb.ch/explore/dataset/parkrail-sale-app/information/ \
 https://data.sbb.ch/explore/dataset/parkrail-sale-app-history/information/ \
-https://sbb.opendatasoft.com/explore/dataset/parkrail-sale-app-2018/information \
+https://data.sbb.ch/explore/dataset/parkrail-sale-app-2018/information \
 sold tickets / abo in the other sales channels\
 https://data.sbb.ch/explore/dataset/parkrail-sale-backend/information/
 
 Information about the trainstations in Switzerland https://data.sbb.ch/explore/dataset/dienststellen-gemass-opentransportdataswiss/information/ \
-Information about the amount of trains at each Station https://data.sbb.ch/explore/dataset/anzahl-zuge-pro-haltestelle/table/?sort=betriebstag 
-
+Information about the amount of trains at each Station https://data.sbb.ch/explore/dataset/anzahl-zuge-pro-haltestelle/table/?sort=betriebstag  \
+Information about the amount of people at each Station https://data.sbb.ch/explore/dataset/passagierfrequenz/information/ \
 
 
 ### Judging Criteria
