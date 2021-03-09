@@ -22,6 +22,8 @@ sold tickets / abo in the Park & App
 https://data.sbb.ch/explore/dataset/parkrail-sale-app/information/
 
 https://data.sbb.ch/explore/dataset/parkrail-sale-app-history/information/
+
+https://sbb.opendatasoft.com/explore/dataset/parkrail-sale-app-2018/information
 sold tickets / abo in the other sales channels
 https://data.sbb.ch/explore/dataset/parkrail-sale-backend/information/
 
