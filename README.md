@@ -24,6 +24,8 @@ https://data.sbb.ch/explore/dataset/parkrail-sale-app-history/information/ \
 https://data.sbb.ch/explore/dataset/parkrail-sale-app-2018/information \
 sold tickets / abo in the other sales channels\
 https://data.sbb.ch/explore/dataset/parkrail-sale-backend/information/
+detailed Information about Burgdorf
+https://data.sbb.ch/explore/dataset/parkrail-burgdorf/information/
 
 Information about the trainstations in Switzerland https://data.sbb.ch/explore/dataset/dienststellen-gemass-opentransportdataswiss/information/ \
 Information about the amount of trains at each Station https://data.sbb.ch/explore/dataset/anzahl-zuge-pro-haltestelle/table/?sort=betriebstag  \
