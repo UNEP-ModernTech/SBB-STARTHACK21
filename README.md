@@ -55,7 +55,8 @@ We assess the solution on the basis of various areas:
 - The technical implementation works and the user interface is designed in an appealing way
 - A convincing presentation at the end
 
-### Point of Contact
+### Case Owners Fabienne and Adrian will be glad to answer your questions during the Deep Dive and on Saturday morning from 10.30 to 11.30. 
+### In case you get stuck outside of these time slots, please liaise with Christian or Ramon on Discord or via mobile. 
 
 ![Kontakt](kontakt.png "Title") 
 
