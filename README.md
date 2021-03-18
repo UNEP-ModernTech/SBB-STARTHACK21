@@ -41,6 +41,8 @@ sold tickets / abo in the other sales channels\
 https://data.sbb.ch/explore/dataset/parkrail-sale-backend/information/
 detailed Information about Burgdorf
 https://data.sbb.ch/explore/dataset/parkrail-burgdorf/information/
+detailed Information about Rapperswil
+https://data.sbb.ch/explore/dataset/park-ride-rapperswil/information
 
 Information about the trainstations in Switzerland https://data.sbb.ch/explore/dataset/dienststellen-gemass-opentransportdataswiss/information/ \
 Information about the amount of trains at each Station https://data.sbb.ch/explore/dataset/anzahl-zuge-pro-haltestelle/table/?sort=betriebstag  \
